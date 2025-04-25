@@ -1,4 +1,3 @@
-# ללינקדין
 def The_multiplication_game():
     
     # Importing the random library: the numbers used to generate the exercises will be random    import random
