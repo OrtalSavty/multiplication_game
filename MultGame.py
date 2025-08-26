@@ -1,4 +1,5 @@
 def The_multiplication_game():
+# Version 1.0
     
     # Importing the random library: the numbers used to generate the exercises will be random    import random
     willingness = 0
